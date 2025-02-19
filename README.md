@@ -13,14 +13,14 @@
 <br>
 <br>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003753/Screenshot_2025-02-19_232220_exmwlq.png)
 ![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003654/Screenshot_2025-02-19_232043_mtfoku.png)
 
-##### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003829/Screenshot_2025-02-19_232338_mavbao.png)
 
 
-###### 🌐 Socials:
+## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__france18__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-di-vita-113355183) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francescodavidedivita@gmail.com) 
