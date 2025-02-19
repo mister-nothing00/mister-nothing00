@@ -2,7 +2,7 @@
 👋Hi, I'm Francesco!<br><br>💻 **Web Developer and Technology Enthusiast**<br><br>For almost a year I have transformed my passion for programming into a professional path, always pushing myself to improve my skills and transform my ideas or the ideas of people I know into reality. Every project I do, whether personal or collaborative, is an opportunity that allows me to learn, innovate and overcome new challenges.
 <br>
 <br>
-🚀 I am determined and ambitious: I firmly believe that with commitment and consistency nothing is impossible, both in the world of development and in personal life. I am currently looking for new opportunities to practice my skills and contribute my enthusiasm to a development team that allows me to grow and continue to improve. My goal? Become a Tech Lead and lead a team of developers to success.
+🚀 I am **determined** and **ambitious**: I firmly believe that with commitment and consistency nothing is impossible, both in the world of development and in personal life. I am currently looking for new opportunities to practice my skills and contribute my enthusiasm to a development team that allows me to grow and continue to improve. My goal? Become a Tech Lead and lead a team of developers to success.
 <br>
 ![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003411/Screenshot_2025-02-19_231636_ez1ozc.png)
 <br>
@@ -15,7 +15,7 @@
 <br>
 <br>
 
-### 🌐 Socials
+
 ### 🌐 Socials  
 [![Website](https://img.shields.io/badge/-Website-000?logo=internet-explorer&logoColor=white)](https://portfolio-6q18.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-di-vita-113355183) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francescodavidedivita@gmail.com)
 
