@@ -4,6 +4,7 @@
 <br>
 🚀 I am **determined** and **ambitious**: I firmly believe that with commitment and consistency nothing is impossible, both in the world of development and in personal life. I am currently looking for new opportunities to practice my skills and contribute my enthusiasm to a development team that allows me to grow and continue to improve. My goal? Become a Tech Lead and lead a team of developers to success.
 <br>
+<br>
 ![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003411/Screenshot_2025-02-19_231636_ez1ozc.png)
 <br>
 <br>
