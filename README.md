@@ -14,12 +14,9 @@
 <br>
 
 ## 📊 GitHub Stats:
-![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003753/Screenshot_2025-02-19_232220_exmwlq.png)
-![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003654/Screenshot_2025-02-19_232043_mtfoku.png)
-
-## 🏆 GitHub Trophies
 
 ![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003829/Screenshot_2025-02-19_232338_mavbao.png)
+![](https://res.cloudinary.com/dxbcing5y/image/upload/v1740003654/Screenshot_2025-02-19_232043_mtfoku.png)
 
 
 ## 🌐 Socials:
