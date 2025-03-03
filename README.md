@@ -1,11 +1,12 @@
 # 💫 About Me
 👋Hi, I'm Francesco!<br><br>💻 **Web Developer and Technology Enthusiast**<br><br>For almost a year I have transformed my passion for programming into a professional path, always pushing myself to improve my skills and transform my ideas or the ideas of people I know into reality. Every project I do, whether personal or collaborative, is an opportunity that allows me to learn, innovate and overcome new challenges.
 <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mister-nothing00&theme=github)
 <br>
 🚀 I am **determined** and **ambitious**: I firmly believe that with commitment and consistency nothing is impossible, both in the world of development and in personal life. I am currently looking for new opportunities to practice my skills and contribute my enthusiasm to a development team that allows me to grow and continue to improve. My goal? Become a Tech Lead and lead a team of developers to success.
 <br>
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mister-nothing00&theme=github)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mister-nothing00&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mister-nothing00&theme=github&utcOffset=8)
 <br>
 <br>
 
