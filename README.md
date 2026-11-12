@@ -1,14 +1,46 @@
-# 👋 Hi, I'm Francesco Di Vita
+# Ciao, sono Francesco 👋
 
-**Full-Stack Developer** specializing in React, Next.js and Node.js for end-to-end web applications.
+**Frontend developer** · React, Next.js, TypeScript
+📍 Gela, Sicilia · da remoto in tutta Italia
 
-I worked at **space2earth**, a geospatial startup in partnership with the University of Messina, where I built interactive dashboards, REST APIs, JWT authentication systems and SEO-optimized interfaces on production projects.
+> Francesco di Vita è un frontend developer italiano di Gela, in Sicilia: React, Next.js e TypeScript. Da giugno 2026 è frontend developer in Janus S.r.l.; prima, in space2earth, ha sviluppato dashboard meteo e geospaziali.
 
-My flagship project is **[HireFlow](https://hire-flow-dashboard-web-git-699fc5-francescos-projects-3c47c947.vercel.app/)** — a full-stack job board platform built with React Native, Next.js and Supabase, with real-time messaging and dual-user system (Candidates & Companies).
-
-I'm a member of **Google Developer Group** in Gela and Catania, and I'm currently expanding my stack with **Python and FastAPI**.
+🇬🇧 *Italian frontend developer from Sicily, working remotely. React, Next.js, TypeScript.*
 
 ---
+
+## 🛠️ Cosa faccio
+
+- 🌐 **Web app** con React e Next.js
+- 📱 **App** per iPhone e Android (React Native)
+- 📊 **Gestionali e dashboard** su misura
+- 🔧 **Consulenza**: siti lenti, bug, migrazioni
+
+---
+
+## ✅ Cosa ho fatto
+
+- ⚡ **Sito React portato su Next.js**: caricamento da **4,2 s a 1,55 s** (space2earth) → [leggi il caso](https://francescodivita.com/lavori/migrazione-nextjs)
+- 🗺️ **HPC-Extreme**: mappe meteo a 3 km con l'Università di Messina → [leggi il caso](https://francescodivita.com/lavori/hpc-extreme)
+- 🏥 **Medix**: gestionale per pazienti, esami e referti (progetto mio) → [vedi](https://francescodivita.com/lavori/medix)
+- 🍷 **Nektar**: un sito che racconta un luogo con lo scroll (progetto mio) → [vedi](https://francescodivita.com/lavori/nektar)
+- 📲 **HireFlow**: app per chi cerca lavoro, con match e chat in tempo reale (in sviluppo) → [vedi](https://francescodivita.com/lavori/hireflow)
+
+---
+
+## 🧰 Strumenti
+
+`React` · `Next.js` · `TypeScript` · `React Native` · `Node.js` · `Python` · `FastAPI` · `PostgreSQL` · `Supabase`
+
+---
+
+## 🤝 Come si lavora con me
+
+1. **Chiamata** per capire cosa serve
+2. **Proposta scritta**: cosa, quando, quanto
+3. **Rilasci frequenti**: vedi i progressi, non aspetti la fine
+
+
 
 ## Tech Stack
 
@@ -50,8 +82,10 @@ I'm a member of **Google Developer Group** in Gela and Catania, and I'm currentl
 
 ---
 
-## Links
+---
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-francesco-davide-divita.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-di-vita)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francescodavidedivita@gmail.com)
+## 📬 Scrivimi
+
+👉 **[francescodivita.com](https://francescodivita.com)**
+💬 [Modulo contatti](https://francescodivita.com/contatti) · [LinkedIn](https://www.linkedin.com/in/francesco-di-vita)
+⏱️ Rispondo entro 24 ore lavorative
